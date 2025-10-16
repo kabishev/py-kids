@@ -27,7 +27,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <url-репозитория>
+   git clone git@github.com:kabishev/py-kids.git
    cd py-kids
    ```
 
